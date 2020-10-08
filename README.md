@@ -1,5 +1,6 @@
 # Object-Detection-using-Opencv
 
 two libraries : 
-pip install cv2
-pip install imutils
+
+1)pip install cv2
+(2) pip install imutils
